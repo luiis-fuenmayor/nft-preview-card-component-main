@@ -11,6 +11,13 @@
 *{
     margin: auto;
     box-sizing: border-box;
+    
+}
+body{
+    width: max-content;
+    background-color: black;
+    
+
 }
 
 
